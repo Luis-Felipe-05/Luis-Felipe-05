@@ -1,4 +1,3 @@
-
 ### Olá! eu sou o Luis Felipe 📙
 
 ![Luis-Felipe-05 GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Felipe-05&show_icons=true&theme=dracula)
@@ -12,10 +11,9 @@
     <img align = "center" alt = "python" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align = "center" alt = "js" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-</div>
-<br/>
-Sou Engenheiro Químico, apaixonado pela área da termodinâmica, e programação, estou estudando algumas linguagens por conta própia e crio alguns códigos e sites voltados para a engenharia química utilizando javascript e python.
-<br/>
+</div><br/>
+
+Sou Engenheiro Químico, apaixonado pela área da termodinâmica, e programação, estou estudando algumas linguagens por conta própria e crio alguns códigos e sites voltados para a engenharia química utilizando javascript e python.
 
 Contato:
 - email: luis42225felipe@gmail.com
